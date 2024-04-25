@@ -1,0 +1,26 @@
+html, body {
+    height: 100%;
+    min-height: 100%;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    border-bottom: 1px solid black;
+}
+
+header, footer {
+    padding: 8px;
+}
+
+main {
+    padding: 10px 30px;
+}
+
+footer {
+    border-top: 1px solid black;
+}
